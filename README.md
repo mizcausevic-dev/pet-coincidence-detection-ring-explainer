@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/pet-coincidence-detection-ring-explainer/
 
+Repository: https://github.com/mizcausevic-dev/pet-coincidence-detection-ring-explainer
+
 ## What this is
 
 An interactive anatomy plate for PET Coincidence Detection Ring. Play, scrub, or jump the five stages. The same frame always draws the same picture.
